@@ -3,11 +3,17 @@ class School
   attr_reader :roster, :student
 
 Roster = []
-def initialize(roster)
+def initialize(name)
   @roster = roster
   Roster << @roster
 end
 
-def
-
+def add_student=(student)
+  @student = student
 end
+
+def 
+
+end 
+
+end 
