@@ -12,8 +12,8 @@ def add_student=(student)
   @student = student
 end
 
-def 
+def
 
-end 
+end
 
-end 
+end
