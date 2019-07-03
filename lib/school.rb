@@ -2,7 +2,6 @@ class School
 
   attr_reader :name, :roster
 
-Roster = []
 def initialize(name)
   @roster = roster
   Roster << @roster
